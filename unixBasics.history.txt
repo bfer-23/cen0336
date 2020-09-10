@@ -1,0 +1,442 @@
+    1  exit
+    2  sd semanal
+    3  cd semanal
+    4  exit
+    5  cd semanal
+    6  exit
+    7  cd semanal
+    8  cd semana1
+    9  cd semana 1
+   10  cd semana1
+   11  1s
+   12  ls
+   13  car hello-world.c
+   14  cat hello-world.c
+   15  cat hello-world.py
+   16  cat readme.first
+   17  ls
+   18  g++ hello-world.c -o hello-world
+   19  ls
+   20   cat hello-world 
+   21  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+   22  ls
+   23  ./hello-world 
+   24  python3 hello-world.py
+   25  #fl,lf
+   26  cd semana1
+   27  ls
+   28  cat hello-world.c
+   29  cat readme.first
+   30  cat hello-world.py 
+   31  g++ hello-world.c -o hello-world
+   32  ls
+   33  ./hello-world
+   34  python3 hello-world.py
+   35  cd
+   36  pwd
+   37  cd /home
+   38  ls
+   39  pwd
+   40  cd..
+   41  cd ..
+   42  ls
+   43  cd bin
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd home
+   48  ls
+   49  cd home
+   50  cd
+   51  cd home
+   52  cd /home
+   53  pwd
+   54  cd ..
+   55  ls
+   56  ls -a
+   57  mkdir home
+   58  pwd
+   59  cd /home
+   60  mkdir problemsets
+   61  pwd
+   62  cd /home
+   63  cd
+   64  pwd
+   65  cd /home
+   66  pwd
+   67  cd ..
+   68  ls -f
+   69  ls -a
+   70  ls
+   71  cd /home/bfer
+   72  ls
+   73  mkdir problemsets
+   74  ls
+   75  problemsets
+   76  cd problemsets
+   77  pwd
+   78  wget https://raw.githubusercontent.com/labbces/cen0336/master/files/cuffdiff.txt
+   79  cd home/bfer
+   80  cd /home/bfer
+   81  ls
+   82  cd problemsets
+   83  pwd
+   84  wget https://raw.githubusercontent.com/labbces/cen0336/master/files/sequences.nt.fa.text
+   85  wget https://raw.githubusercontent.com/labbces/cen0336/master/files/sequences.nt.fa
+   86  head sequences.nt.fa
+   87  head -n1 sequences.nt.fa
+   88  wc sequences.nt.fa
+   89  tail -n3 sequences.nt.fa
+   90  mv sequences.nt.fa  cancer_genes.fasta
+   91  ls
+   92  grep '>' sequences.nt.fa
+   93  grep '>' cancer_genes.fasta
+   94  sequences.nt.facancer_genes.fasta wc
+   95  sequences.nt.facancer_genes.fasta | wc
+   96   grep '>' cancer_genes.fasta | wc
+   97  cd cuffdiff.txt
+   98  ls
+   99  ls -l
+  100  cd bin
+  101  ls -lt
+  102  wget https://raw.githubusercontent.com/labbces/cen03  36/master/files/cuffdiff.txt
+  103  cd /bin
+  104  ls
+  105  cd cuffdiff.txt
+  106   cuffdiff.txt
+  107  cd ..
+  108  cd /home/bfer
+  109  ls
+  110  cd /problemsets
+  111  problemsets
+  112  cd /home/bfer/problemsets
+  113  ls
+  114  head cuffdiff.txt
+  115  sort -k 10 -r -r cuffdiff.txt > teste_sorted.out
+  116  head teste_sorted.out
+  117  head -n 100 teste_sorted > teste_top100
+  118  sort -k 10 -r -n cuffdiff.txt | head -n 100 > teste_top100.2
+  119  wc -l test_top100.2
+  120   sort -k 10 -r -n cuffdiff.txt | head -n 100 | cut -f 1 > test_dif_exp
+  121  head teste_dif_exp
+  122  sort -k 10 -r -n cuffdiff.txt | head -n 100 > teste_top100.2
+  123  pwd
+  124  cd /home
+  125  pwd
+  126  cd..
+  127  cd ..
+  128  pwd
+  129  ls -F *.txt
+  130  ls
+  131  ls -F
+  132  ls -aF
+  133  ls um_diretorio | wc -l
+  134  pwd
+  135  [A
+  136  ls -la|grep -e "^-"|wc -l
+  137  ls -la|grep -e "^d"|wc -l
+  138  alias fid=`echo "Arquivos: $(ls -la |grep "^-"|wc -l)  Diretórios: $(ls -la|grep "^d"|wc -l)
+  139  find
+  140  pwd
+  141  pwd
+  142  cd /home
+  143  cd ..
+  144  find
+  145  cd /
+  146  pwd
+  147  fid
+  148  ls -la|grep -e "^-"|wc -l
+  149  ls -la|grep -e "^d"|wc -l
+  150  `echo "Arquivos: $(ls -la |grep "^-"|wc -l)  Diretórios: $(ls -la|grep "^d"|wc -l)"`
+  151  ls -sF
+  152  ls -aF
+  153  LS -F
+  154  ls -F
+  155  cd ../../bfer
+  156  cd /../bfer
+  157  cd /home/bfer
+  158  pwd
+  159  ls
+  160  cd /home/bfer/problemsets
+  161  ls
+  162  rm cancer_genes.fasta test_dif_exp  teste_top100 cuffdiff.txt teste_sorted.out teste_top100.2
+  163  ls
+  164  pwd
+  165  ls
+  166  wget https://raw.githubusercontent.com/labbces/cen0336/master/files/sequences.nt.fa
+  167  wc lines sequences.nt.fa
+  168  wc sequences.nt.fa’
+  169  wc sequences.nt.fa
+  170  wc -l
+  171  wc -l sequences.nt.fa
+  172  wc -c sequences.nt.fa
+  173  head n-1  sequences.nt.fa
+  174  head -n1 sequences.nt.fa
+  175  tail n-3 sequences.nt.fa
+  176  tail -n1 sequences.nt.fa
+  177  tail -n3 sequences.nt.fa
+  178  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+  179  gre '>.' sequences.nt.fa
+  180  grep '>.' sequences.nt.fa
+  181  grep '>.' sequences.nt.fa | wc
+  182  grep '>' sequences.nt.fa | wc
+  183  mv sequences.nt.fa  cancer_genes.fasta
+  184  ls
+  185  pwd
+  186  cd
+  187  cd/home
+  188  cd /home
+  189  pwd
+  190  cd
+  191  ls
+  192  cd ..
+  193  ls
+  194  ls -la|grep -e "^-"|wc -l
+  195  ls -la|grep -e "^d"|wc -l
+  196  cd home
+  197  cd / homw
+  198  cd /homw
+  199  cd /home
+  200  cd /home/bfer
+  201  pwd
+  202  ls
+  203  cd /home /bfer /problemsets
+  204  ls
+  205  cd problemsets
+  206  pwd
+  207  cd /home/bfer
+  208  pwd
+  209  cd problemsets
+  210  ls
+  211   wget https://raw.githubusercontent.com/labbces/cen03  36/master/files/cuffdiff.txt
+  212  ls
+  213  pwd
+  214  wget https://raw.githubusercontent.com/labbces/cen03  36/master/files/cuffdiff.txt
+  215  mkdir PFB_problemsets
+  216  ls
+  217  cd PFB_problemsets
+  218  pwd
+  219  echo "# PFB_problemsets" >> README.md
+  220  ls
+  221  cat README.md
+  222  git init
+  223  ls
+  224  ls -a
+  225  ls -aF
+  226  ls -al
+  227  git status
+  228  git add README.md
+  229  git status
+  230  git commit -m "first commit"
+  231  git config --global user.email "bruna2.ferreira@usp.br"
+  232  global user.name "Bruna Ferreira"
+  233  git config --global user.email "bruna2.ferreira@usp.br"
+  234  global user.name "Bruna Ferreira"
+  235  git config --global user.email "bruna2.ferreira@usp.br"
+  236  global user.name "bfer-23"
+  237  git config --global user.email "bruna2.ferreira@usp.br"
+  238  git config --global user.name "Bruna Ferreira"
+  239  git status
+  240  git commit -m "first commit"
+  241  git status
+  242  git remote add origin https://github.com/bfer-23/PFB_problemsets.git
+  243  git push -u origin master
+  244  vi git_exercises.txt
+  245  ls
+  246  git status
+  247  git add git_exercises.txt
+  248  ls
+  249  git commit -m 'added a line of text'
+  250  git push origin master
+  251  git status
+  252  cd tory clean
+  253  [bfer@cen0336 PFB_problemsets]$
+  254  cd tory clean
+  255  [bfer@cen0336 PFB_problemsets]$
+  256  tory clean
+  257  [bfer@cen0336 PFB_problemsets]$
+  258  cd
+  259  pwd
+  260  cd PFB_problemsets/
+  261  ls
+  262  git status
+  263  pwd
+  264  cd ..
+  265  cd PFB_problemsets/
+  266  ls
+  267  cd GitHub
+  268  pwd
+  269  pdw
+  270  cd ls
+  271  ls
+  272  pdw
+  273  mkdir CEN0336
+  274  ls
+  275  cd CEN0336
+  276  echo "# cen0336" >> README.md
+  277  ls
+  278  cat README.md
+  279  git init
+  280  ls
+  281  ls -a
+  282  ls -aF
+  283  ls -al
+  284  git status
+  285  git add README.md
+  286  git status
+  287  git commit -n "first commit"
+  288  git commit -m "first commit"
+  289  git remote add origin https://github.com/bfer-23/cen0336.git
+  290  git push -u origin master
+  291  vi git_exercises.txt
+  292  ls
+  293  git status
+  294  git add git_exercises.txt
+  295  git status
+  296  git commit -m "add git exercises"
+  297  git push origen master
+  298  git push origin master
+  299  CD BFER
+  300  cd home
+  301  ls
+  302  cd ..
+  303  pwd
+  304  ls
+  305  cd problemsets/
+  306  ls
+  307  cd cen0336/
+  308  cd CEN0336
+  309  cd CEN0336/
+  310  pwd
+  311  cd ..
+  312  cd CEN0336/
+  313  ls
+  314  git status
+  315  pwd
+  316  mv /home/bfer/probremsets/*.txt  /home/bfer/CEN0336
+  317  mv /home/bfer/problemsets/*.txt  /home/bfer/CEN0336
+  318  ls
+  319  mv /home/bfer/problemsets/*.fa  /home/bfer/CEN0336
+  320  mv /home/bfer/problemsets/*.fasta  /home/bfer/CEN0336
+  321  mv /home/bfer/problemsets/*.out  /home/bfer/CEN0336
+  322  ls
+  323  git status
+  324  git add cancer_genes.fasta cuffdiff.txt  differentially.expressed.genes.txt test_sorted.out top100.sorted.cuffdiff.out
+  325  git status
+  326  git commit -m "mudanca de arquivos"
+  327  git push
+  328  ssh-keygen -t rsa -b 4096 -C "bruna2.ferreira@usp.br"
+  329  ls ~/.ssh
+  330  cat ~/.ssh/id_rsa.pub
+  331  pwd
+  332  mkdir files
+  333  ls
+  334  mv cancer_genes.fasta /home/bfer/CEN0336/files/
+  335  ls files/
+  336  git status
+  337  git add files/cancer_genes.fasta
+  338  git status
+  339  git commit -m "mudanca para file"
+  340  git push
+  341  eval $(ssh.agent -s)
+  342  eval "$(ssh-agent -s)"
+  343  ssh-add ~/.ssh/id_rsa
+  344  git push
+  345  git config --global push.default simple
+  346  git push
+  347  git remote -v
+  348  fg
+  349   git remote set -url origin git@github.com:bfer-23/cen0336.git
+  350  git remote set-url origin git@github.com:bfer-23/cen03 
+  351  git push
+  352  git status
+  353  ls /files
+  354  ls files/
+  355  mv git_exercises.txt /home/bfer/CEN0336/files/
+  356  ls files/
+  357  git add files/git_exercises.txt
+  358  git status
+  359  git commit -m "novos arquivos files"
+  360  git push
+  361   git commit -m "novos arquivos files" git_exercises.txt
+  362  git push
+  363  vi files/my_sequences.txt
+  364  ls files/
+  365  git commit "minhas sequencias"
+  366  git commit -m "minhassequencias"
+  367  git add file/my_sequences.txt
+  368  git add files/my_sequences.txt
+  369  git commit -m "minhas sequencias"
+  370  git status
+  371  git push
+  372  ERROR: Repository not found.
+  373  fatal:git remote add origin git@github.com:bfer-23/cen0336.git
+  374  git remote add origin git@github.com:bfer-23/cen0336.git
+  375  eval "$(ssh-agent -s)"
+  376  ssh-add ~/.ssh/id_rsa
+  377  git push
+  378  git config --global push.default simple
+  379  git push
+  380  cd home/befer/CEN0336
+  381  cd CEN0336/
+  382  LS
+  383  ls
+  384  ls files/
+  385  git add files/my_sequences.txt
+  386  git status
+  387  git commit -m "minhas sequencias"
+  388  git status
+  389  ggit push
+  390  git push
+  391  ls files/
+  392  ERROR: Repository not found.
+  393  fatal: Could not read from remote repository.
+  394  Please make sure you have the correct access rights
+  395  and the repository exists.
+  396  git config http.sslVerify false
+  397  git push
+  398  git remote add origin git@github.com:bfer-23/cen0336.git
+  399  cd CEN0336/
+  400  ls
+  401  ls files/
+  402  vi files/git_exercises.txt
+  403  git status
+  404  git push
+  405  git remote -v
+  406  fg
+  407  git remote set-url origin git@github.com:bfer-23/cen0336.git
+  408  git push
+  409  git status
+  410  git commit -m "arquivos" cancer_genes.fasta files/git_exercises.txt
+  411  git push
+  412  vi files/my_sequences.txt
+  413  git add files/my_sequences.txt
+  414  git commit -m "minhas sequencias" my_sequences.txt
+  415   git commit -m "minhas sequencias"
+  416  git push
+  417  mkdir fastas
+  418  cp files/cance_genes.fasta fastas/
+  419  ls
+  420  ls files/
+  421  cp files/cancer_genes.fasta fastas/
+  422  ls fastas/
+  423  rm files/cancer_genes.fasta
+  424  ls files
+  425  git status
+  426  git add fastas/cancer_genes.fasta
+  427  git status
+  428  git commit -m  "fastas"
+  429  gi commit -m "apagar cancer_genes"  files/cancer_genes.fasta
+  430  git commit -m "apagar cancer_genes"  files/cancer_genes.fasta
+  431  git push
+  432  vi oops
+  433  rm oops
+  434  vi oops.txt
+  435  git add oops.txt
+  436  git commit -m "oops" oops.txt
+  437  git push
+  438  git rm oops.txt
+  439  git commit -m "removing oops"
+  440  git push
+  441  history
+  442  history > unixBasics.history.txt
